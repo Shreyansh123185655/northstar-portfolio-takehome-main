@@ -9,13 +9,14 @@ The app combines React, TypeScript, Express, PostgreSQL, JWT auth, and Docker Co
 ## Screenshots
 
 **Login**
+<img width="835" height="837" alt="image" src="https://github.com/user-attachments/assets/f181950c-1391-4eb3-a394-568f5cd91dd0" />
 
-<img width="1710" height="1107" alt="Screenshot 2026-09-12 at 8 59 31 PM" src="https://github.com/user-attachments/assets/272183f0-a7e6-4432-a63a-a53b15d33233" />
 
 
 **Dashboard**
 
-<img width="1710" height="1107" alt="Screenshot 2026-09-12 at 9 00 21 PM" src="https://github.com/user-attachments/assets/12dbcdf2-2715-4d9e-9a2e-7e5011de475a" />
+<img width="1709" height="941" alt="Screenshot 2026-09-12 at 9 00 04 PM" src="https://github.com/user-attachments/assets/6f0e2e35-d84b-49ad-82ed-6222fce26b98" />
+
 
 <img width="1710" height="519" alt="Screenshot 2026-09-12 at 9 00 32 PM" src="https://github.com/user-attachments/assets/57b11f0e-ac34-418a-8a4b-137bfdc4c77c" />
 
