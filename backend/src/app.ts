@@ -7,6 +7,7 @@ import jwt from 'jsonwebtoken';
 import bcrypt from 'bcryptjs';
 import fs from 'fs';
 import path from 'path';
+import 'dotenv/config';
 
 const app = express();
 const port = process.env.PORT || 3000;
